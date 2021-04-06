@@ -1,0 +1,24 @@
+{
+  "name": "databases-project",
+  "version": "1.0.0",
+  "description": "Project for databases course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanPersson/databases-project.git"
+  },
+  "author": "Ryan Persson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanPersson/databases-project/issues"
+  },
+  "homepage": "https://github.com/RyanPersson/databases-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^3.0.4",
+    "mysql": "^2.18.1"
+  }
+}
